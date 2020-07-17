@@ -3,3 +3,14 @@ text {
   font-family: Arial, Helvetica, sans-serif;
   fill: white;
 }
+
+.label {
+  font-size: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #000;
+  fill: #a1a1a1;
+}
+
+svg{
+  padding: 15px;
+}
